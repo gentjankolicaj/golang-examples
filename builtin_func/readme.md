@@ -1,0 +1,1 @@
+# Samples using builtin functions of golang
