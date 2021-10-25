@@ -1,11 +1,13 @@
 //go:build ignored
-
 package main
 
 import "fmt"
 
 //Exported members start with uppercase,and are accessible outside their package
 //Non-exported members start with lowercase and are not accesible outside their package
+
+//float32     the set of all IEEE-754 32-bit floating-point numbers
+//float64     the set of all IEEE-754 64-bit floating-point numbers
 
 //Exported vars
 var A float32
